@@ -1,3 +1,4 @@
 # DSC180A-Methodology-4
-Niharika Malhotra
+Sophia Lugo
 slugo@ucsd.edu
+Niharika Malhotra
